@@ -2836,3 +2836,25 @@ footer a:hover{
     display:none;
   }
 }
+/* Classic Hair Studio — Trading Hours */
+.contact-row {
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.22);
+}
+
+.contact-row span {
+  display: block;
+  color: #d4af37;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.contact-row b {
+  display: block;
+  color: #f5f0e8;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  font-weight: 500;
+}
